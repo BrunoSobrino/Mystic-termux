@@ -8,9 +8,9 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
+  ['50378946683', '👑 Mystic - Creador 👑', true],
+  ['50375095642', '💫 Mystic - Collaborator 1 💫', true],
+  ['50368212182', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['573225236629', '💫 Mystic - Collaborator 4 💫', true],
   ['593959425714', '💫 Mystic - Collaborator 5 💫', true],
@@ -19,7 +19,7 @@ global.owner = [
   ['593968585283'],
   ['5219993404349'],
   ['5219991402134'],	
-  ['5219996125657']
+  ['50375217409']
 ] 
 
 global.suittag = ['5219993404349'] 
