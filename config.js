@@ -16,13 +16,13 @@ global.owner = [
   ['593959425714', '💫 Mystic - Collaborator 5 💫', true],
   ['50246028932', '💫 Mystic - Collaborator 6 💫', true],  
   ['5212411719888', '💫 Mystic - Collaborator 7 💫', true],	
-  ['593968585283'],
+  ['573133235913'],
   ['5219993404349'],
   ['5219991402134'],	
   ['5219996125657']
 ] 
 
-global.suittag = ['5219993404349'] 
+global.suittag = ['573133235913'] 
 global.prems = ['51995386439'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
